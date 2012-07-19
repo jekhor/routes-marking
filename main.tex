@@ -1,13 +1,14 @@
-\documentclass[a4paper,12pt]{extarticle}
+\documentclass[a4paper,12pt,titlepage]{extarticle}
 
 \usepackage[T2A]{fontenc}
-\usepackage[utf8]{inputenc}
+\usepackage[utf8x]{inputenc}
 \usepackage[russian]{babel}
 \usepackage{indentfirst}
 \usepackage{graphicx}
 \usepackage[left=2cm,top=2cm,right=1.7cm,bottom=2cm,nohead]{geometry}
 \usepackage[font={small,it}]{caption}
 \usepackage{wrapfig}
+\usepackage[colorlinks=true]{hyperref}
 
 
 \usepackage{enumitem}
@@ -16,9 +17,14 @@
 %\setlist[itemize]{leftmargin=*}
 \setlist[itemize,1]{label=-}
 
+\author{ОО <<Минское велосипедное общество>>}
+\date{Минск, 2012}
+\title{Маркировка туристских маршрутов. Методические рекомендации.}
 
 \sloppy
 \begin{document}
+
+\maketitle
 
 \section{Введение.}
 
@@ -41,7 +47,7 @@
 ориентирования туристов, а лишь определяет способы информирования о различных объектах.
 
 Данные технические рекомендации разработаны с целью облегчить создание привлекательных и удобных для посещения
-туристических маршрутов, в том числе вне населённых пунктов.
+туристических маршрутов вне населённых пунктов.
 
 \section{Требования, предъявляемые к маркировке.}
 
@@ -110,7 +116,7 @@
 
 \begin{figure}
 	\centering
-	\includegraphics[width=0.5\textwidth]{image-mark}
+	\includegraphics[width=0.7\textwidth]{image-mark}
 	\caption{Маршрутная марка}\label{fig:mark}
 \end{figure}
 
@@ -152,10 +158,10 @@
 
 Для маршрутных марок рекомендуются следующие цвета (рис.~\ref{fig:mark-colors},~а):
 \begin{itemize}
-	\item Красный (предпочтительный для веломаршрутов);
-	\item Зелёный (предпочтительный для пешеходных маршрутов);
-	\item Синий (предпочтительный для водных маршрутов);
-	\item Жёлтый
+	\item красный (предпочтительный для веломаршрутов);
+	\item зелёный (предпочтительный для пешеходных маршрутов);
+	\item синий (предпочтительный для водных маршрутов);
+	\item жёлтый.
 \end{itemize}
 
 В случае, если возникает необходимость в маркировке большого числа маршрутов на ограниченной территории, то в целях
@@ -380,12 +386,22 @@
 покрытия и качество сцепления с ним клеевого слоя плёнки. Так, рыхлая кора деревьев не сможет обеспечить должный
 уровень адгезии, а вот металлические опоры, ограждения --- смогут.
 
+\section{Открытые для обсуждения вопросы}
+\begin{enumerate}
+	\item Чем отмечать начало и конец маршрута?
+	\item Двусторонний маршрут --- должны ли метки идти всегда справа, или же при движении <<по шерсти>> --- справа, в обратном направлении --- слева?
+	\item Маркировка ответвлений --- в оригинальной методичке предлагалось использовать белый цвет и цвет основного маршрута, здесь заменено на серый (белый сливается с фоном). Пригодна ли такая схема? Насколько приемлемо использование трёх цветов? Может, выбрать какой-то иной формат марки для ответвлений (например, диагональная полоса)?
+	\item Информация о местах отдыха, достопримечательностях, иных особенных местах --- достаточно ли СТБ, или же нужно разработать свои знаки, пригодные для нанесения краской на местности? Для примеров см. \cite{metodussr} и \cite{wikimedia-marks} (фото из Чехии).
+	\item То же для указателей направлений и расстояний.
+\end{enumerate}
 
 \begin{thebibliography}{99}
 	\bibitem{metodussr} Маркировка туристских маршрутов. Методические рекомендации. Центральный совет по туризму и
 		экскурсиям. Центральное рекламно-информационное бюро <<Турист>>. Москва, 1975.
 	\bibitem{stb1821} СТБ~1821--2007 «Знаки информационные туристические. Общие технические условия».
 	\bibitem{intrznak} Polskie Towarzystwo Turystyczno-Krajoznawcze. Instrukcja znakowania szlaków turystycznych. Warszawa, 2007.
+	\bibitem{} Juris Smaļinskis, Aiva Jakovela. Vadlīnijas aktīvā tūrisma maršrutu marķējumam. LLTA “Lauku ceļotājs”, 2010.
+	\bibitem{wikimedia-marks} \url{http://commons.wikimedia.org/wiki/Category:Hiking\_and\_footpath\_signs\_by\_country}
 
 \end{thebibliography}
 
