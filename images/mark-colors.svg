@@ -10,7 +10,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2446.6536"
-   height="1312.7953"
+   height="1383.1863"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -112,9 +112,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="1003.5692"
-     inkscape:cy="708.97335"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="803.97335"
+     inkscape:cy="874.73572"
      inkscape:document-units="mm"
      inkscape:current-layer="g12577"
      showgrid="true"
@@ -151,11 +151,11 @@
        id="guide3932" />
     <sodipodi:guide
        orientation="0,1"
-       position="-683.9976,665.7224"
+       position="-683.9976,665.72242"
        id="guide3934" />
     <sodipodi:guide
        orientation="0,1"
-       position="-587.02295,871.79351"
+       position="-587.02295,871.79353"
        id="guide3936" />
     <sodipodi:guide
        orientation="1,0"
@@ -163,11 +163,11 @@
        id="guide3938" />
     <sodipodi:guide
        orientation="0,1"
-       position="-613.28692,811.18436"
+       position="-613.28692,811.18438"
        id="guide3940" />
     <sodipodi:guide
        orientation="0,1"
-       position="-655.71332,665.7224"
+       position="-655.71332,665.72242"
        id="guide3942" />
   </sodipodi:namedview>
   <metadata
@@ -186,7 +186,7 @@
      inkscape:label="Пласт 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0.88582677,-732.57873)">
+     transform="translate(0.88582677,-662.18777)">
     <g
        id="g3948"
        transform="translate(0,2.248291e-5)">
@@ -435,7 +435,7 @@
          style="color:#000000;fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <text
          xml:space="preserve"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-size:64px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Oblique"
          x="-1877.9528"
          y="-294.09451"
          id="text12620"
@@ -446,7 +446,7 @@
            y="-294.09451">а</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-size:64px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Oblique"
          x="-1877.9528"
          y="201.96846"
          id="text12624"
@@ -457,7 +457,7 @@
            y="201.96846">б</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         style="font-size:64px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Oblique"
          x="-1877.9528"
          y="698.03143"
          id="text12628"
@@ -472,7 +472,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="размеры"
-     transform="translate(0.88582677,-732.57873)">
+     transform="translate(0.88582677,-662.18777)">
     <g
        id="g5957"
        transform="matrix(0,1,-1,0,1268.0414,517.87854)" />

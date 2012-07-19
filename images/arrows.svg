@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="984.55652"
-   height="588.60168"
+   width="1774.4695"
+   height="498.89725"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
@@ -224,9 +224,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="476.89567"
-     inkscape:cy="53.095224"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="540.67813"
+     inkscape:cy="-81.042246"
      inkscape:document-units="mm"
      inkscape:current-layer="g4079"
      showgrid="true"
@@ -257,31 +257,31 @@
        visible="true"
        enabled="true"
        snapvisiblegridlinesonly="true"
-       originx="23.931277mm"
-       originy="-87.879426mm" />
+       originx="280.39736mm"
+       originy="-94.607607mm" />
     <sodipodi:guide
        orientation="1,0"
-       position="84.795862,691.37211"
+       position="993.53395,667.5321"
        id="guide3932" />
     <sodipodi:guide
        orientation="0,1"
-       position="970.62263,308.69495"
+       position="1879.3607,284.85494"
        id="guide3934" />
     <sodipodi:guide
        orientation="0,1"
-       position="159.20531,-311.38379"
+       position="1067.9434,-335.2238"
        id="guide3936" />
     <sodipodi:guide
        orientation="0,1"
-       position="917.47303,-435.39954"
+       position="1826.2111,-459.23955"
        id="guide3940" />
     <sodipodi:guide
        orientation="0,1"
-       position="935.18956,-453.11607"
+       position="1843.9277,-476.95608"
        id="guide3942" />
     <sodipodi:guide
        orientation="1,0"
-       position="864.32342,503.57684"
+       position="1773.0615,479.73683"
        id="guide4077" />
   </sodipodi:namedview>
   <metadata
@@ -300,7 +300,7 @@
      inkscape:label="Пласт 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(84.795862,-152.37668)">
+     transform="translate(993.53395,-218.24109)">
     <g
        id="g4079"
        transform="translate(0,-425.20967)">
@@ -314,7 +314,7 @@
          sodipodi:nodetypes="ccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="rect3946"
-         d="m 531.48671,786.60039 0,53.14961 -265.73868,0.0266 0,-53.1496 -106.29921,106.29921 0,-159.44882 -106.299212,0 0,106.29921 0,212.59845 106.299212,0 0,-159.44884 106.29921,106.29921 0,-53.14961 265.73868,-0.0272 0,53.14961 106.29922,-106.29922 z"
+         d="m 531.48671,786.60039 0,53.14961 -265.73868,0.0266 0,-53.1496 -106.29921,106.29921 0,-159.44882 -106.299212,0 0,106.29921 0,212.5985 106.299212,0 0,-159.44889 106.29921,106.29921 0,-53.14961 265.73868,-0.0272 0,53.14961 L 637.78593,892.899 z"
          style="color:#000000;fill:#fd0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <g
          id="g4079-5"
@@ -332,11 +332,35 @@
            d="m 531.48671,786.60039 0,53.14961 -531.48671,0 0,106.3125 531.48671,-0.0133 0,53.14961 106.29922,-106.29922 z"
            style="color:#000000;fill:#fd0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       </g>
+      <text
+         xml:space="preserve"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         x="-884.89362"
+         y="113.82999"
+         id="text12632"
+         sodipodi:linespacing="125%"
+         transform="translate(-84.795862,577.58635)"><tspan
+           sodipodi:role="line"
+           id="tspan12634"
+           x="-884.89362"
+           y="113.82999">а</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         x="107.07617"
+         y="123.93151"
+         id="text12636"
+         sodipodi:linespacing="125%"
+         transform="translate(-84.795862,577.58635)"><tspan
+           sodipodi:role="line"
+           id="tspan12638"
+           x="107.07617"
+           y="123.93151">б</tspan></text>
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="размеры"
-     transform="translate(84.795862,-152.37668)" />
+     transform="translate(993.53395,-218.24109)" />
 </svg>
