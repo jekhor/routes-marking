@@ -113,8 +113,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="803.97335"
-     inkscape:cy="874.73572"
+     inkscape:cx="1024.8819"
+     inkscape:cy="-95.766401"
      inkscape:document-units="mm"
      inkscape:current-layer="g12577"
      showgrid="true"
@@ -338,18 +338,11 @@
        transform="translate(0,992.12603)"
        id="g12559">
       <rect
-         y="839.76373"
-         x="4.6685433e-05"
-         height="106.29922"
-         width="265.74799"
-         id="rect12583"
-         style="color:#000000;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
          style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect12561"
-         width="265.74799"
+         width="283.46457"
          height="106.29922"
-         x="265.74805"
+         x="124.01575"
          y="839.76373" />
       <rect
          style="color:#000000;fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -363,17 +356,10 @@
        id="g12565"
        transform="translate(637.79529,992.12603)">
       <rect
-         style="color:#000000;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect12596"
-         width="265.74802"
-         height="106.29922"
-         x="1.7584051e-06"
-         y="839.76373" />
-      <rect
          y="839.76373"
-         x="265.74802"
+         x="124.01573"
          height="106.29922"
-         width="265.74802"
+         width="283.46457"
          id="rect12567"
          style="color:#000000;fill:#18ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
@@ -388,18 +374,11 @@
        transform="translate(1275.5906,992.12603)"
        id="g12571">
       <rect
-         y="839.76373"
-         x="-2.1299563e-06"
-         height="106.29922"
-         width="265.74799"
-         id="rect12604"
-         style="color:#000000;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
          style="color:#000000;fill:#4d4dff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect12573"
-         width="265.74799"
+         width="283.46457"
          height="106.29922"
-         x="265.74799"
+         x="124.0157"
          y="839.76373" />
       <rect
          style="color:#000000;fill:none;stroke:#000000;stroke-width:1.77165353;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -413,17 +392,10 @@
        id="g12577"
        transform="translate(1913.3858,992.12603)">
       <rect
-         style="color:#000000;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect12612"
-         width="265.74799"
-         height="106.29922"
-         x="2.7804375e-05"
-         y="839.76373" />
-      <rect
          y="839.76373"
-         x="265.74805"
+         x="124.01578"
          height="106.29922"
-         width="265.74799"
+         width="283.46457"
          id="rect12579"
          style="color:#000000;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1417.32287598;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <rect
