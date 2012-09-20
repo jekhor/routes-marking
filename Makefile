@@ -5,6 +5,9 @@ IMAGES = \
 	image-mark-colors.pdf \
 	image-mark-placement.pdf \
 	image-mark-stacked.pdf \
+	image-placement-plain.pdf \
+	image-placement-turn.pdf \
+	image-placement-turn1.pdf \
 	image-mark.pdf
 
 
